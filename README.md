@@ -49,7 +49,11 @@ Como estudiante de soporte TI y microinformática, me resultó especialmente int
 
 ![Telar](20261002_103556.jpg)
 
-
+## Reflexión personal
+ 
+Uno de los aspectos que más me llamó la atención fue comprobar cómo muchas de las tareas que hoy realizamos desde un portátil doméstico requerían anteriormente equipos mucho más grandes y especializados.
+ 
+También resultó interesante comparar los sistemas históricos expuestos con algunos de los equipos antiguos que actualmente utilizo como laboratorio doméstico para prácticas de hardware y sistemas operativos.
 
 ## Créditos
  
