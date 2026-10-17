@@ -6,7 +6,7 @@ Durante una visita al Museu Nacional de la Ciència i la Tècnica de Catalunya (
 
 Imagen de referencia del edificio del MNACTEC.
  
-![Entrada del museo](entrada-mnactec-terrassa.webp)
+![Entrada del museo](fotos/entrada-mnactec-terrassa.webp)
 
  
 Como estudiante de soporte TI y microinformática, me resultó especialmente interesante observar la evolución del hardware, los sistemas de almacenamiento y las interfaces de usuario a lo largo de distintas generaciones.
@@ -27,27 +27,27 @@ Como estudiante de soporte TI y microinformática, me resultó especialmente int
  
 ## Galería fotográfica
 
-![Telar](20261002_100416.jpg)
+![Telar](fotos/20261002_100416.jpg)
 
-![Telar](20261002_100613.jpg)
+![Telar](fotos/20261002_100613.jpg)
 
-![Telar](20261002_100818.jpg)
+![Telar](fotos/20261002_100818.jpg)
 
-![Telar](20261002_100843.jpg)
+![Telar](fotos/20261002_100843.jpg)
 
-![Telar](20261002_102521.jpg)
+![Telar](fotos/20261002_102521.jpg)
 
-![Telar](20261002_102635.jpg)
+![Telar](fotos/20261002_102635.jpg)
 
-![Telar](20261002_102837.jpg)
+![Telar](fotos/20261002_102837.jpg)
 
-![Telar](20261002_103101_HDR.jpg)
+![Telar](fotos/20261002_103101_HDR.jpg)
 
-![Telar](20261002_103335.jpg)
+![Telar](fotos/20261002_103335.jpg)
 
-![Telar](20261002_103453.jpg)
+![Telar](fotos/20261002_103453.jpg)
 
-![Telar](20261002_103556.jpg)
+![Telar](fotos/20261002_103556.jpg)
 
 ## Reflexión personal
  
